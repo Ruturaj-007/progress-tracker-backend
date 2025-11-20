@@ -34,18 +34,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### ===== SPRING BOOT SENSITIVE CONFIG =====
-# Do NOT push Spring configs
-src/main/resources/application.properties
-src/main/resources/application.yml
-src/main/resources/*.properties
-src/main/resources/*.yml
-
-# Test config files
-src/test/resources/application.properties
-src/test/resources/application.yml
-src/test/resources/*.properties
-src/test/resources/*.yml
 
 
 ### ===== DOCKER =====
