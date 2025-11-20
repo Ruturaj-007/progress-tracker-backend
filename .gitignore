@@ -47,10 +47,6 @@ src/test/resources/application.yml
 src/test/resources/*.properties
 src/test/resources/*.yml
 
-# Ignore ALL property/yaml files globally (optional safety)
-*.properties
-*.yml
-*.yaml
 
 ### ===== DOCKER =====
 docker-compose.yml
